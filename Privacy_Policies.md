@@ -1,16 +1,16 @@
 # Privacy Policy
 
-Last updated: March 14, 2026
+**Last updated: April 6, 2026**
 
 ## Introduction
 
 Welcome to **SoulFit**.
 
-SoulFit is a health and fitness application designed to help users track their daily health activities, including calories, hydration, steps, and workouts. The app also provides AI-based features such as food calorie scanning and AI-generated workout plans.
+SoulFit is a health and fitness application designed to help users track daily health activities such as calories, hydration, steps, and workouts. The app also provides AI-powered features including food calorie estimation and personalized workout generation.
 
-This Privacy Policy explains how we collect, use, store, and protect your information when you use the SoulFit mobile application.
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the SoulFit mobile application.
 
-By using SoulFit, you agree to the collection and use of information in accordance with this policy.
+By using SoulFit, you agree to the practices described in this policy.
 
 ---
 
@@ -21,7 +21,7 @@ When you create an account, we may collect:
 
 - Name
 - Email address
-- Authentication details (including OAuth login if used)
+- Authentication data (including OAuth providers)
 
 This information is used to create and manage your account.
 
@@ -29,99 +29,117 @@ This information is used to create and manage your account.
 
 ## 2. Health and Fitness Data
 
-SoulFit collects fitness-related information that you voluntarily provide, including:
+We collect data that you voluntarily provide, including:
 
 - Daily calorie intake
-- Hydration tracking
+- Water intake (hydration)
 - Step count
 - Workout history
 - Generated workout plans
 
-This information is used only to provide health tracking and analytics features inside the app.
+This data is used solely to provide tracking, insights, and personalized recommendations within the app.
 
 ---
 
 ## 3. AI Food Scanner Data
 
-When you use the **AI food calorie scanner**, the app may collect:
+When using the **AI food calorie scanner**, we may process:
 
-- Images of food items captured through the camera
-- Food descriptions (if entered manually)
+- Images of food captured via your camera
+- Optional food descriptions
 
-These images may be temporarily processed by **third-party AI services** to estimate nutritional values such as calories.
+This data may be sent securely to third-party AI services for calorie estimation.
 
-Images are **not stored permanently by SoulFit unless required for processing**.
+- Images are **not stored permanently** by SoulFit unless required for processing
+- Processing is done in real-time and securely transmitted
 
 ---
 
 ## 4. AI Workout Generation Data
 
-SoulFit uses AI services to generate personalized workout plans based on:
+To generate personalized workout plans, we may process:
 
 - Fitness level
-- Workout preferences
-- User activity history
+- Preferences
+- Activity history
 
-This data may be sent securely to third-party AI providers for processing.
+This data may be shared with AI service providers solely to generate results.
 
 ---
 
-## 5. Device Information
+## 5. Device and Usage Information
 
-We may automatically collect limited device information such as:
+We may automatically collect:
 
-- Device type
+- Device type and model
 - Operating system version
 - App version
-- Crash reports
+- Crash logs
+- Usage patterns (non-personal)
 
-This helps us improve app performance and fix issues.
+This helps us improve performance, stability, and user experience.
+
+---
+
+## 6. Advertising Data
+
+SoulFit displays **third-party advertisements** to support the app.
+
+Ad providers may collect limited data such as:
+
+- Device identifiers (e.g., advertising ID)
+- Approximate location (non-precise)
+- App interaction data
+
+This information is used to:
+
+- Show relevant ads
+- Measure ad performance
+
+We **do not control** how third-party advertisers use your data. Please review their privacy policies for more details.
+
+You can manage ad personalization through your device settings.
 
 ---
 
 # How We Use Your Information
 
-SoulFit uses collected data to:
+We use collected data to:
 
-- Provide fitness tracking features
-- Generate AI-based workouts
-- Estimate calories using food image recognition
+- Provide and maintain app functionality
+- Track health and fitness activities
+- Generate AI-based insights and workouts
+- Process food images for calorie estimation
 - Improve app performance and reliability
-- Maintain account security
-- Provide customer support
+- Ensure security and prevent misuse
+- Display and optimize advertisements
+- Provide support and respond to inquiries
 
-We **do not sell your personal information**.
+We **do not sell your personal data**.
 
 ---
 
 # Third-Party Services
 
-SoulFit may use third-party services to provide certain features, including:
+We may use trusted third-party services, including:
 
-- AI processing for food recognition
-- AI workout generation
-- Authentication services
-- Cloud storage
-
-These third-party providers process data only for the purpose of delivering their services and are required to protect your information.
-
-Examples may include:
-
-- AI model providers
-- Cloud hosting platforms
+- AI service providers (for food recognition and workouts)
+- Cloud hosting providers
 - Authentication providers
+- Analytics services
+- Advertising networks
 
-Each provider has its own privacy policy governing how data is handled.
+These providers only process data as necessary to perform their functions and are obligated to protect it.
 
 ---
 
 # Data Storage and Security
 
-We implement appropriate security measures to protect your information, including:
+We implement reasonable security measures, including:
 
-- Secure API communication (HTTPS)
-- Encrypted authentication
-- Access controls
+- HTTPS encryption for all communications
+- Secure authentication systems
+- Access controls and monitoring
 
 However, no system is completely secure, and we cannot guarantee absolute security.
 
@@ -129,36 +147,48 @@ However, no system is completely secure, and we cannot guarantee absolute securi
 
 # Data Retention
 
-We retain your information only for as long as necessary to:
+We retain your data only as long as necessary to:
 
-- Provide app services
+- Provide services
 - Maintain your account
 - Comply with legal obligations
 
-You may request deletion of your account and associated data at any time.
+Data may be retained in backups for a limited period.
+
+---
+
+# Your Rights and Choices
+
+You have the right to:
+
+- Access your data
+- Update or correct your data
+- Delete your account
+- Withdraw consent where applicable
+
+You can:
+
+- Delete your account from within the app
+- Contact us for data-related requests
 
 ---
 
 # Account Deletion
 
-Users may delete their account directly from the app or by contacting us.
+When you delete your account:
 
-When an account is deleted:
+- Personal information is removed
+- Fitness data is deleted
 
-- Personal information will be removed
-- Fitness data associated with the account will be deleted
-
-Some limited data may remain temporarily in backups for security and compliance purposes.
+Some data may remain temporarily in backups for security or legal reasons.
 
 ---
 
 # Children's Privacy
 
-SoulFit is **not intended for children under the age of 13**.
+SoulFit is **not intended for children under 13 years of age**.
 
-We do not knowingly collect personal information from children under 13.
-
-If we discover that such information has been collected, it will be deleted promptly.
+We do not knowingly collect data from children under 13. If such data is identified, it will be deleted promptly.
 
 ---
 
@@ -166,14 +196,12 @@ If we discover that such information has been collected, it will be deleted prom
 
 We may update this Privacy Policy from time to time.
 
-Changes will be posted on this page with an updated revision date.
-
-Users are encouraged to review this policy periodically.
+Updates will be reflected with a new "Last updated" date. Continued use of the app constitutes acceptance of the revised policy.
 
 ---
 
 # Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at:
+If you have any questions or concerns about this Privacy Policy, contact us:
 
-Email: soulcord.dynamics@gmail.com
+📧 Email: soulcord.dynamics@gmail.com
